@@ -1,4 +1,5 @@
 package Arrays_and_ArrayList;
+
 public class Order_Agnostic_Binary_Search {
   public static void main(String[] args) {
     int[] arr = { 2 };
