@@ -5,9 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="26639517-5cea-4cd2-9ae0-ee836e05327c" name="Changes" comment="Files added">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Arrays_and_ArrayList/BinarySearch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Arrays_and_ArrayList/BinarySearch.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Arrays_and_ArrayList/Find_in_Mountain_Array.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Arrays_and_ArrayList/Find_in_Mountain_Array.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Arrays_and_ArrayList/Order_Agnostic_Binary_Search.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Arrays_and_ArrayList/Order_Agnostic_Binary_Search.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,6 +48,7 @@
     "Application.BinarySearch.executor": "Run",
     "Application.Find_the_number_with_Even_number_of_digits.executor": "Run",
     "Application.Main.executor": "Run",
+    "Application.Order_Agnostic_Binary_Search.executor": "Run",
     "Application.Richest_Customer_Wealth.executor": "Run",
     "Application.Swap_an_Array.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -58,7 +57,7 @@
     "kotlin-language-version-configured": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.BinarySearch">
+  <component name="RunManager" selected="Application.Order_Agnostic_Binary_Search">
     <configuration name="BinarySearch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Arrays_and_ArrayList.BinarySearch" />
       <module name="Java Restart" />
@@ -85,9 +84,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Main" />
+    <configuration name="Order_Agnostic_Binary_Search" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Arrays_and_ArrayList.Order_Agnostic_Binary_Search" />
       <module name="Java Restart" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Arrays_and_ArrayList.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -120,11 +125,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Order_Agnostic_Binary_Search" />
         <item itemvalue="Application.BinarySearch" />
         <item itemvalue="Application.Richest_Customer_Wealth" />
         <item itemvalue="Application.Find_the_number_with_Even_number_of_digits" />
         <item itemvalue="Application.Swap_an_Array" />
-        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
