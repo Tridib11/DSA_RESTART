@@ -61,7 +61,7 @@
     "kotlin-language-version-configured": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Ceiling_of_A_number">
+  <component name="RunManager" selected="Application.Floor_of_A_Number">
     <configuration name="BinarySearch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Arrays_and_ArrayList.BinarySearch" />
       <module name="Java Restart" />
@@ -88,8 +88,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Find_the_number_with_Even_number_of_digits" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Arrays_and_ArrayList.Find_the_number_with_Even_number_of_digits" />
+    <configuration name="Floor_of_A_Number" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Arrays_and_ArrayList.Floor_of_A_Number" />
       <module name="Java Restart" />
       <extension name="coverage">
         <pattern>
@@ -129,11 +129,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Floor_of_A_Number" />
         <item itemvalue="Application.Ceiling_of_A_number" />
         <item itemvalue="Application.Order_Agnostic_Binary_Search" />
         <item itemvalue="Application.BinarySearch" />
         <item itemvalue="Application.Richest_Customer_Wealth" />
-        <item itemvalue="Application.Find_the_number_with_Even_number_of_digits" />
       </list>
     </recent_temporary>
   </component>
