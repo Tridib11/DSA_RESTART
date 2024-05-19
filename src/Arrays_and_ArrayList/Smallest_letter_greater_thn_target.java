@@ -9,7 +9,11 @@ public class Smallest_letter_greater_thn_target {
   }
 
   public static char nextGreatestLetter(char[] letters, char target) {
-
+    int start=0;
+    int end=letters.length-1;
+    while(start<=end){
+      
+    }
   }
 
 }
