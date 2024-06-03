@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="26639517-5cea-4cd2-9ae0-ee836e05327c" name="Changes" comment="Files added">
-      <change afterPath="$PROJECT_DIR$/src/Arrays_and_ArrayList/Set_Matrix_Zero/BruteForce.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Arrays_and_ArrayList/Set_Matrix_Zero/BruteForce.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Arrays_and_ArrayList/Set_Matrix_Zero/BruteForce.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,6 +55,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.BinarySearch.executor": "Run",
+    "Application.BruteForce.executor": "Run",
     "Application.Ceiling_of_A_number.executor": "Run",
     "Application.Count_even_number_of_digits.executor": "Run",
     "Application.Find_in_a_String.executor": "Run",
@@ -74,13 +76,13 @@
     "settings.editor.selected.configurable": "reference.settingsdialog.IDE.editor.colors.VCS"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Count_even_number_of_digits">
-    <configuration name="BinarySearch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Arrays_and_ArrayList.BinarySearch" />
+  <component name="RunManager" selected="Application.BruteForce">
+    <configuration name="BruteForce" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Arrays_and_ArrayList.Set_Matrix_Zero.BruteForce" />
       <module name="Java Restart" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Arrays_and_ArrayList.*" />
+          <option name="PATTERN" value="Arrays_and_ArrayList.Set_Matrix_Zero.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -142,11 +144,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.BruteForce" />
         <item itemvalue="Application.Count_even_number_of_digits" />
         <item itemvalue="Application.Search_in_2D_Array" />
         <item itemvalue="Application.Find_in_a_String" />
         <item itemvalue="Application.Reverse_An_array" />
-        <item itemvalue="Application.BinarySearch" />
       </list>
     </recent_temporary>
   </component>
