@@ -1,5 +1,17 @@
 package Arrays_and_ArrayList.Set_Matrix_Zero;
+//https://leetcode.com/problems/set-matrix-zeroes/description/
 
+/*
+ 
+Time Complexity: O(2*(N*M)), 
+
+where N = no. of rows in the matrix and M = no. of columns in the matrix.
+Reason: In this approach, we are also traversing the entire matrix 2 times and each traversal is taking O(N*M) time complexity.
+
+Space Complexity: O(1) as we are not using any extra space.
+  
+  
+ */
 public class Optimal {
     public static void main(String[] args) {
         int[][] matrix = {
@@ -9,7 +21,7 @@ public class Optimal {
         };
         setZeroes(matrix);
         for (int[] row : matrix) {
-            for (int num : row) {
+            for (int num : row) {   
                 System.out.print(num + " ");
             }
             System.out.println();
