@@ -53,6 +53,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.Better.executor": "Run",
     "Application.BinarySearch.executor": "Run",
     "Application.BruteForce.executor": "Run",
     "Application.Ceiling_of_A_number.executor": "Run",
@@ -75,7 +76,20 @@
     "settings.editor.selected.configurable": "reference.settingsdialog.IDE.editor.colors.VCS"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.BruteForce">
+  <component name="RunManager" selected="Application.Better">
+    <configuration name="Better" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Arrays_and_ArrayList.Set_Matrix_Zero.Better" />
+      <module name="Java Restart" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Arrays_and_ArrayList.Set_Matrix_Zero.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="BruteForce" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Arrays_and_ArrayList.Set_Matrix_Zero.BruteForce" />
       <module name="Java Restart" />
@@ -115,19 +129,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Reverse_An_array" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Arrays_and_ArrayList.Reverse_An_array" />
-      <module name="Java Restart" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Arrays_and_ArrayList.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="Search_in_2D_Array" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Arrays_and_ArrayList.Search_in_2D_Array" />
       <module name="Java Restart" />
@@ -143,11 +144,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Better" />
         <item itemvalue="Application.BruteForce" />
         <item itemvalue="Application.Count_even_number_of_digits" />
         <item itemvalue="Application.Search_in_2D_Array" />
         <item itemvalue="Application.Find_in_a_String" />
-        <item itemvalue="Application.Reverse_An_array" />
       </list>
     </recent_temporary>
   </component>
