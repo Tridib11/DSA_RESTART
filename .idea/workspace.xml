@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="26639517-5cea-4cd2-9ae0-ee836e05327c" name="Changes" comment="Files added" />
+    <list default="true" id="26639517-5cea-4cd2-9ae0-ee836e05327c" name="Changes" comment="Files added">
+      <change beforePath="$PROJECT_DIR$/src/Arrays_and_ArrayList/Search_in_2D_Array.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Arrays_and_ArrayList/Search_in_2D_Array.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -64,7 +66,7 @@
     "settings.editor.selected.configurable": "reference.settingsdialog.IDE.editor.colors.VCS"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Find_in_a_String">
+  <component name="RunManager" selected="Application.Search_in_2D_Array">
     <configuration name="BinarySearch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Arrays_and_ArrayList.BinarySearch" />
       <module name="Java Restart" />
@@ -91,8 +93,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="First_and_last_Position_of_element_in_sorted_Array" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Arrays_and_ArrayList.First_and_last_Position_of_element_in_sorted_Array" />
+    <configuration name="Reverse_An_array" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Arrays_and_ArrayList.Reverse_An_array" />
       <module name="Java Restart" />
       <extension name="coverage">
         <pattern>
@@ -104,8 +106,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Reverse_An_array" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Arrays_and_ArrayList.Reverse_An_array" />
+    <configuration name="Search_in_2D_Array" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Arrays_and_ArrayList.Search_in_2D_Array" />
       <module name="Java Restart" />
       <extension name="coverage">
         <pattern>
@@ -132,11 +134,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Search_in_2D_Array" />
         <item itemvalue="Application.Find_in_a_String" />
         <item itemvalue="Application.Reverse_An_array" />
         <item itemvalue="Application.BinarySearch" />
         <item itemvalue="Application.Smallest_letter_greater_thn_target" />
-        <item itemvalue="Application.First_and_last_Position_of_element_in_sorted_Array" />
       </list>
     </recent_temporary>
   </component>
