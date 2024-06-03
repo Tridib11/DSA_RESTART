@@ -4,4 +4,8 @@ public class Better {
   public static void main(String[] args) {
     
   }
+
+  private static void setZeroes(int [][]matrix){
+    
+  }
 }
