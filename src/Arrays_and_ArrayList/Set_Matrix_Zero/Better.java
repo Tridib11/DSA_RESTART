@@ -6,6 +6,12 @@ public class Better {
   }
 
   private static void setZeroes(int [][]matrix){
-    
+    int row=matrix.length;
+    int col=matrix[row].length;
+    int[] externalRow=new int[row];
+    int[] externalCol=new int[col];
+
+    for()
+
   }
 }
