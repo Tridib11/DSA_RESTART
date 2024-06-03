@@ -3,10 +3,14 @@ package Arrays_and_ArrayList.Set_Matrix_Zero;
 
 
 /*
-Time Complexity: O(2*(N*M)), where N = no. of rows in the matrix and M = no. of columns in the matrix.
+Time Complexity: O(2*(N*M)), 
+
+where N = no. of rows in the matrix and M = no. of columns in the matrix.
 Reason: We are traversing the entire matrix 2 times and each traversal is taking O(N*M) time complexity.
 
-Space Complexity: O(N) + O(M), where N = no. of rows in the matrix and M = no. of columns in the matrix.
+Space Complexity: O(N) + O(M), 
+
+where N = no. of rows in the matrix and M = no. of columns in the matrix.
 Reason: O(N) is for using the row array and O(M) is for using the col array.
 */
 public class Better {
