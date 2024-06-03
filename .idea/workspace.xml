@@ -5,8 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="26639517-5cea-4cd2-9ae0-ee836e05327c" name="Changes" comment="Files added">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Arrays_and_ArrayList/Reverse_An_array.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Arrays_and_ArrayList/Reverse_An_array.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Arrays_and_ArrayList/Find_in_a_String.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Arrays_and_ArrayList/Find_in_a_String.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,6 +49,7 @@
   "keyToString": {
     "Application.BinarySearch.executor": "Run",
     "Application.Ceiling_of_A_number.executor": "Run",
+    "Application.Find_in_a_String.executor": "Run",
     "Application.Find_the_number_with_Even_number_of_digits.executor": "Run",
     "Application.First_and_last_Position_of_element_in_sorted_Array.executor": "Run",
     "Application.Floor_of_A_Number.executor": "Run",
@@ -66,7 +66,7 @@
     "settings.editor.selected.configurable": "reference.settingsdialog.IDE.editor.colors.VCS"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Reverse_An_array">
+  <component name="RunManager" selected="Application.Find_in_a_String">
     <configuration name="BinarySearch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Arrays_and_ArrayList.BinarySearch" />
       <module name="Java Restart" />
@@ -80,8 +80,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="First_and_last_Position_of_element_in_sorted_Array" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Arrays_and_ArrayList.First_and_last_Position_of_element_in_sorted_Array" />
+    <configuration name="Find_in_a_String" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Arrays_and_ArrayList.Find_in_a_String" />
       <module name="Java Restart" />
       <extension name="coverage">
         <pattern>
@@ -93,8 +93,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Floor_of_A_Number" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Arrays_and_ArrayList.Floor_of_A_Number" />
+    <configuration name="First_and_last_Position_of_element_in_sorted_Array" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Arrays_and_ArrayList.First_and_last_Position_of_element_in_sorted_Array" />
       <module name="Java Restart" />
       <extension name="coverage">
         <pattern>
@@ -134,11 +134,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Find_in_a_String" />
         <item itemvalue="Application.Reverse_An_array" />
         <item itemvalue="Application.BinarySearch" />
         <item itemvalue="Application.Smallest_letter_greater_thn_target" />
         <item itemvalue="Application.First_and_last_Position_of_element_in_sorted_Array" />
-        <item itemvalue="Application.Floor_of_A_Number" />
       </list>
     </recent_temporary>
   </component>
@@ -359,7 +359,23 @@
       <option name="project" value="LOCAL" />
       <updated>1717377992236</updated>
     </task>
-    <option name="localTasksCounter" value="27" />
+    <task id="LOCAL-00027" summary="Files added">
+      <option name="closed" value="true" />
+      <created>1717378003232</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1717378003232</updated>
+    </task>
+    <task id="LOCAL-00028" summary="Files added">
+      <option name="closed" value="true" />
+      <created>1717378136199</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1717378136199</updated>
+    </task>
+    <option name="localTasksCounter" value="29" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
