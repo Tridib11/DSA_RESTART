@@ -6,6 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="26639517-5cea-4cd2-9ae0-ee836e05327c" name="Changes" comment="Files added">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Arrays_and_ArrayList/Reverse_An_array.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Arrays_and_ArrayList/Reverse_An_array.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,12 +29,12 @@
     &quot;assignee&quot;: &quot;Tridib11&quot;
   }
 }</component>
-  <component name="GithubPullRequestsUISettings">{
-  &quot;selectedUrlAndAccountId&quot;: {
-    &quot;url&quot;: &quot;https://github.com/Tridib11/DSA_RESTART.git&quot;,
-    &quot;accountId&quot;: &quot;2904877f-80b0-4d79-b70a-05d6d90555e4&quot;
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/Tridib11/DSA_RESTART.git",
+    "accountId": "0b505266-a9f9-490b-8f35-b4b9ac15b2af"
   }
-}</component>
+}]]></component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 2
 }</component>
@@ -45,25 +46,26 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.BinarySearch.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Ceiling_of_A_number.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Find_the_number_with_Even_number_of_digits.executor&quot;: &quot;Run&quot;,
-    &quot;Application.First_and_last_Position_of_element_in_sorted_Array.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Floor_of_A_Number.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Order_Agnostic_Binary_Search.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Richest_Customer_Wealth.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Smallest_letter_greater_thn_target.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Swap_an_Array.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settingsdialog.IDE.editor.colors.VCS&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.BinarySearch.executor": "Run",
+    "Application.Ceiling_of_A_number.executor": "Run",
+    "Application.Find_the_number_with_Even_number_of_digits.executor": "Run",
+    "Application.First_and_last_Position_of_element_in_sorted_Array.executor": "Run",
+    "Application.Floor_of_A_Number.executor": "Run",
+    "Application.Main.executor": "Run",
+    "Application.Order_Agnostic_Binary_Search.executor": "Run",
+    "Application.Reverse_An_array.executor": "Run",
+    "Application.Richest_Customer_Wealth.executor": "Run",
+    "Application.Smallest_letter_greater_thn_target.executor": "Run",
+    "Application.Swap_an_Array.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "settings.editor.selected.configurable": "reference.settingsdialog.IDE.editor.colors.VCS"
   }
-}</component>
+}]]></component>
   <component name="RunManager" selected="Application.Reverse_An_array">
     <configuration name="BinarySearch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Arrays_and_ArrayList.BinarySearch" />
@@ -333,7 +335,31 @@
       <option name="project" value="LOCAL" />
       <updated>1716100781138</updated>
     </task>
-    <option name="localTasksCounter" value="24" />
+    <task id="LOCAL-00024" summary="Files added">
+      <option name="closed" value="true" />
+      <created>1717377726619</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1717377726629</updated>
+    </task>
+    <task id="LOCAL-00025" summary="Files added">
+      <option name="closed" value="true" />
+      <created>1717377757232</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1717377757232</updated>
+    </task>
+    <task id="LOCAL-00026" summary="Files added">
+      <option name="closed" value="true" />
+      <created>1717377992236</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1717377992236</updated>
+    </task>
+    <option name="localTasksCounter" value="27" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
