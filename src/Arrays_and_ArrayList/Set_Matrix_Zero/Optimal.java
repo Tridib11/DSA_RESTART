@@ -24,5 +24,18 @@ public class Optimal {
             }
         }
 
+        //inner matrix
+
+        for(int i=1;i<row;i++){
+            for(int j=1;j<col;j++){
+                if(matrix[i][j]==0){
+                    matrix[0][i]=0; //changing the first row to 0
+                    matrix[j][0]=0; //changing the first col to 0 
+                }
+            }
+        }
+
+        
+
     }
 }
