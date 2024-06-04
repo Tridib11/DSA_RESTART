@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="26639517-5cea-4cd2-9ae0-ee836e05327c" name="Changes" comment="Files added" />
+    <list default="true" id="26639517-5cea-4cd2-9ae0-ee836e05327c" name="Changes" comment="Files added">
+      <change beforePath="$PROJECT_DIR$/src/Arrays_and_ArrayList/Pascals_Triangle/Variation_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Arrays_and_ArrayList/Pascals_Triangle/Variation_1.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -32,12 +34,12 @@
     &quot;assignee&quot;: &quot;Tridib11&quot;
   }
 }</component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/Tridib11/DSA_RESTART.git",
-    "accountId": "0b505266-a9f9-490b-8f35-b4b9ac15b2af"
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Tridib11/DSA_RESTART.git&quot;,
+    &quot;accountId&quot;: &quot;0b505266-a9f9-490b-8f35-b4b9ac15b2af&quot;
   }
-}]]></component>
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 2
 }</component>
@@ -67,6 +69,7 @@
     "Application.Search_in_2D_Array.executor": "Run",
     "Application.Smallest_letter_greater_thn_target.executor": "Run",
     "Application.Swap_an_Array.executor": "Run",
+    "Application.Variation_1.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
     "ignore.virus.scanning.warn.message": "true",
@@ -74,7 +77,7 @@
     "settings.editor.selected.configurable": "reference.settingsdialog.IDE.editor.colors.VCS"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Better">
+  <component name="RunManager" selected="Application.Variation_1">
     <configuration name="Better" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Arrays_and_ArrayList.Set_Matrix_Zero.Better" />
       <module name="Java Restart" />
@@ -114,19 +117,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Find_in_a_String" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Arrays_and_ArrayList.Find_in_a_String" />
-      <module name="Java Restart" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Arrays_and_ArrayList.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="Search_in_2D_Array" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Arrays_and_ArrayList.Search_in_2D_Array" />
       <module name="Java Restart" />
@@ -140,13 +130,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Variation_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Arrays_and_ArrayList.Pascals_Triangle.Variation_1" />
+      <module name="Java Restart" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Arrays_and_ArrayList.Pascals_Triangle.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Variation_1" />
         <item itemvalue="Application.Better" />
         <item itemvalue="Application.BruteForce" />
         <item itemvalue="Application.Count_even_number_of_digits" />
         <item itemvalue="Application.Search_in_2D_Array" />
-        <item itemvalue="Application.Find_in_a_String" />
       </list>
     </recent_temporary>
   </component>
