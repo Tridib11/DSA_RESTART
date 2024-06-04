@@ -5,6 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="26639517-5cea-4cd2-9ae0-ee836e05327c" name="Changes" comment="Files added">
+      <change afterPath="$PROJECT_DIR$/src/Arrays_and_ArrayList/Pascals_Triangle/Variation_3.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -70,6 +71,7 @@
     "Application.Smallest_letter_greater_thn_target.executor": "Run",
     "Application.Swap_an_Array.executor": "Run",
     "Application.Variation_1.executor": "Run",
+    "Application.Variation_2.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
     "ignore.virus.scanning.warn.message": "true",
