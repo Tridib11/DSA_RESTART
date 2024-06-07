@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="26639517-5cea-4cd2-9ae0-ee836e05327c" name="Changes" comment="Files added">
-      <change afterPath="$PROJECT_DIR$/src/Arrays_and_ArrayList/Peak_Index_In_A_Mountain_Array.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Arrays_and_ArrayList/Peak_Index_In_A_Mountain_Array.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Arrays_and_ArrayList/Peak_Index_In_A_Mountain_Array.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,6 +66,7 @@
     "Application.Main.executor": "Run",
     "Application.MoveZeroes.executor": "Run",
     "Application.Order_Agnostic_Binary_Search.executor": "Run",
+    "Application.Peak_Index_In_A_Mountain_Array.executor": "Debug",
     "Application.Reverse_An_array.executor": "Run",
     "Application.Richest_Customer_Wealth.executor": "Run",
     "Application.Search_In_An_Infinite_sorted_array.executor": "Run",
@@ -462,7 +464,15 @@
       <option name="project" value="LOCAL" />
       <updated>1717633305422</updated>
     </task>
-    <option name="localTasksCounter" value="38" />
+    <task id="LOCAL-00038" summary="Files added">
+      <option name="closed" value="true" />
+      <created>1717747033719</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1717747033719</updated>
+    </task>
+    <option name="localTasksCounter" value="39" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
