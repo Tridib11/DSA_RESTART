@@ -1,9 +1,9 @@
 package Arrays_and_ArrayList;
-//https://www.geeksforgeeks.org/find-position-element-sorted-array-infinite-numbers/
+
 public class Search_In_An_Infinite_sorted_array {
   public static void main(String[] args) {
     int[] arr={1,3,5,6,7,99,100};
-    rangeDecider(arr, 9);
+    rangeDecider(arr,3);
   }
 
   static void rangeDecider(int[] arr,int target){
