@@ -2,10 +2,10 @@ package Arrays_and_ArrayList;
 //https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/
 public class Falp {
   public static void main(String[] args) {
-
+    searchRange(null, 0);
   }
 
-  private int[] searchRange(int[] nums, int target) {
+  private static int[] searchRange(int[] nums, int target) {
     int[] ans = { -1, -1 };
 
     int start = 0;
