@@ -5,8 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="26639517-5cea-4cd2-9ae0-ee836e05327c" name="Changes" comment="Files added">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Arrays_and_ArrayList/Search_in_A_Rotated_Sorted_Array_II.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Arrays_and_ArrayList/Search_in_A_Rotated_Sorted_Array_II.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Arrays_and_ArrayList/Minimum_in_A_Rotated_Sorted_Array.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Arrays_and_ArrayList/Minimum_in_A_Rotated_Sorted_Array.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,37 +51,37 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.Better.executor": "Run",
-    "Application.BinarySearch.executor": "Run",
-    "Application.BruteForce.executor": "Run",
-    "Application.Ceiling_of_A_number.executor": "Run",
-    "Application.Count_even_number_of_digits.executor": "Run",
-    "Application.Find_in_a_String.executor": "Run",
-    "Application.Find_the_number_with_Even_number_of_digits.executor": "Run",
-    "Application.First_and_last_Position_of_element_in_sorted_Array.executor": "Run",
-    "Application.Floor_of_A_Number.executor": "Run",
-    "Application.Main.executor": "Run",
-    "Application.MoveZeroes.executor": "Run",
-    "Application.Order_Agnostic_Binary_Search.executor": "Run",
-    "Application.Peak_Index_In_A_Mountain_Array.executor": "Debug",
-    "Application.Reverse_An_array.executor": "Run",
-    "Application.Richest_Customer_Wealth.executor": "Run",
-    "Application.Search_In_An_Infinite_sorted_array.executor": "Run",
-    "Application.Search_in_2D_Array.executor": "Run",
-    "Application.Smallest_letter_greater_thn_target.executor": "Run",
-    "Application.Swap_an_Array.executor": "Run",
-    "Application.Variation_1.executor": "Run",
-    "Application.Variation_2.executor": "Run",
-    "Application.Variation_3.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
-    "ignore.virus.scanning.warn.message": "true",
-    "kotlin-language-version-configured": "true",
-    "settings.editor.selected.configurable": "reference.settingsdialog.IDE.editor.colors.VCS"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.Better.executor&quot;: &quot;Run&quot;,
+    &quot;Application.BinarySearch.executor&quot;: &quot;Run&quot;,
+    &quot;Application.BruteForce.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Ceiling_of_A_number.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Count_even_number_of_digits.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Find_in_a_String.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Find_the_number_with_Even_number_of_digits.executor&quot;: &quot;Run&quot;,
+    &quot;Application.First_and_last_Position_of_element_in_sorted_Array.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Floor_of_A_Number.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MoveZeroes.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Order_Agnostic_Binary_Search.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Peak_Index_In_A_Mountain_Array.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.Reverse_An_array.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Richest_Customer_Wealth.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Search_In_An_Infinite_sorted_array.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Search_in_2D_Array.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Smallest_letter_greater_thn_target.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Swap_an_Array.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Variation_1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Variation_2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Variation_3.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settingsdialog.IDE.editor.colors.VCS&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager" selected="Application.Peak_Index_In_A_Mountain_Array">
     <configuration name="MoveZeroes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Arrays_and_ArrayList.MoveZeroes" />
@@ -472,7 +471,15 @@
       <option name="project" value="LOCAL" />
       <updated>1717747033719</updated>
     </task>
-    <option name="localTasksCounter" value="39" />
+    <task id="LOCAL-00039" summary="Files added">
+      <option name="closed" value="true" />
+      <created>1717956296388</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1717956296388</updated>
+    </task>
+    <option name="localTasksCounter" value="40" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
