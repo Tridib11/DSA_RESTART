@@ -1,7 +1,7 @@
 package Arrays_and_ArrayList;
 
 //https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/
-import java.util.*;
+
 
 public class Minimum_in_A_Rotated_Sorted_Array {
   public static void main(String[] args) {
