@@ -5,6 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="26639517-5cea-4cd2-9ae0-ee836e05327c" name="Changes" comment="Files added">
+      <change afterPath="$PROJECT_DIR$/src/Arrays_and_ArrayList/Rotaion_Count.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Arrays_and_ArrayList/Minimum_in_A_Rotated_Sorted_Array.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Arrays_and_ArrayList/Minimum_in_A_Rotated_Sorted_Array.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Arrays_and_ArrayList/Minimum_in_A_Rotated_Sorted_Array_ii.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Arrays_and_ArrayList/Minimum_in_A_Rotated_Sorted_Array_ii.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -69,6 +72,7 @@
     "Application.Peak_Index_In_A_Mountain_Array.executor": "Debug",
     "Application.Reverse_An_array.executor": "Run",
     "Application.Richest_Customer_Wealth.executor": "Run",
+    "Application.Rotaion_Count.executor": "Run",
     "Application.Search_In_An_Infinite_sorted_array.executor": "Run",
     "Application.Search_in_2D_Array.executor": "Run",
     "Application.Smallest_letter_greater_thn_target.executor": "Run",
@@ -123,8 +127,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Search_In_An_Infinite_sorted_array" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Arrays_and_ArrayList.Search_In_An_Infinite_sorted_array" />
+    <configuration name="Rotaion_Count" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Arrays_and_ArrayList.Rotaion_Count" />
       <module name="Java Restart" />
       <extension name="coverage">
         <pattern>
@@ -136,8 +140,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Smallest_letter_greater_thn_target" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Arrays_and_ArrayList.Smallest_letter_greater_thn_target" />
+    <configuration name="Search_In_An_Infinite_sorted_array" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Arrays_and_ArrayList.Search_In_An_Infinite_sorted_array" />
       <module name="Java Restart" />
       <extension name="coverage">
         <pattern>
@@ -152,10 +156,10 @@
     <recent_temporary>
       <list>
         <item itemvalue="Application.Minimum_in_A_Rotated_Sorted_Array_ii" />
+        <item itemvalue="Application.Rotaion_Count" />
         <item itemvalue="Application.Peak_Index_In_A_Mountain_Array" />
         <item itemvalue="Application.Search_In_An_Infinite_sorted_array" />
         <item itemvalue="Application.MoveZeroes" />
-        <item itemvalue="Application.Smallest_letter_greater_thn_target" />
       </list>
     </recent_temporary>
   </component>

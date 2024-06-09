@@ -1,12 +1,12 @@
 package Arrays_and_ArrayList;
-
+//https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/description/
 import java.util.*;
 public class Minimum_in_A_Rotated_Sorted_Array_ii {
   public static void main(String[] args) {
     int[] arr={2,2,2,0,1};
     System.out.println(findMin(arr));
   }
-    
+
   public static int findMin(int[] nums) {
      int start=0,end=nums.length-1,min=Integer.MAX_VALUE;
      while(start<end){
