@@ -4,12 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="26639517-5cea-4cd2-9ae0-ee836e05327c" name="Changes" comment="Files added">
-      <change afterPath="$PROJECT_DIR$/src/Arrays_and_ArrayList/Rotaion_Count.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Arrays_and_ArrayList/Minimum_in_A_Rotated_Sorted_Array.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Arrays_and_ArrayList/Minimum_in_A_Rotated_Sorted_Array.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Arrays_and_ArrayList/Minimum_in_A_Rotated_Sorted_Array_ii.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Arrays_and_ArrayList/Minimum_in_A_Rotated_Sorted_Array_ii.java" afterDir="false" />
-    </list>
+    <list default="true" id="26639517-5cea-4cd2-9ae0-ee836e05327c" name="Changes" comment="Files added" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -484,7 +479,15 @@
       <option name="project" value="LOCAL" />
       <updated>1717956296388</updated>
     </task>
-    <option name="localTasksCounter" value="40" />
+    <task id="LOCAL-00040" summary="Files added">
+      <option name="closed" value="true" />
+      <created>1717960375112</created>
+      <option name="number" value="00040" />
+      <option name="presentableId" value="LOCAL-00040" />
+      <option name="project" value="LOCAL" />
+      <updated>1717960375112</updated>
+    </task>
+    <option name="localTasksCounter" value="41" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
