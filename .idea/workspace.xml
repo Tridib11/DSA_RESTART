@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="26639517-5cea-4cd2-9ae0-ee836e05327c" name="Changes" comment="Files added">
-      <change beforePath="$PROJECT_DIR$/src/Arrays_and_ArrayList/Left_Rotate_by_D_places/Optimal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Arrays_and_ArrayList/Left_Rotate_by_D_places/Optimal.java" afterDir="false" />
-    </list>
+    <list default="true" id="26639517-5cea-4cd2-9ae0-ee836e05327c" name="Changes" comment="Files added" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -65,6 +63,7 @@
     "Application.Main.executor": "Run",
     "Application.Minimum_in_A_Rotated_Sorted_Array_ii.executor": "Run",
     "Application.MoveZeroes.executor": "Run",
+    "Application.Optimal.executor": "Run",
     "Application.Order_Agnostic_Binary_Search.executor": "Run",
     "Application.Peak_Index_In_A_Mountain_Array.executor": "Debug",
     "Application.Reverse_An_array.executor": "Run",
@@ -522,7 +521,15 @@
       <option name="project" value="LOCAL" />
       <updated>1718273155957</updated>
     </task>
-    <option name="localTasksCounter" value="45" />
+    <task id="LOCAL-00045" summary="Files added">
+      <option name="closed" value="true" />
+      <created>1718273713496</created>
+      <option name="number" value="00045" />
+      <option name="presentableId" value="LOCAL-00045" />
+      <option name="project" value="LOCAL" />
+      <updated>1718273713496</updated>
+    </task>
+    <option name="localTasksCounter" value="46" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
