@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="26639517-5cea-4cd2-9ae0-ee836e05327c" name="Changes" comment="Files added" />
+    <list default="true" id="26639517-5cea-4cd2-9ae0-ee836e05327c" name="Changes" comment="Files added">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Arrays_and_ArrayList/Left_Rotate_by_D_places/bruteforce.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Arrays_and_ArrayList/Left_Rotate_by_D_places/bruteforce.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -75,6 +78,7 @@
     "Application.Variation_1.executor": "Run",
     "Application.Variation_2.executor": "Run",
     "Application.Variation_3.executor": "Run",
+    "Application.bruteforce.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
     "ignore.virus.scanning.warn.message": "true",
@@ -82,22 +86,9 @@
     "settings.editor.selected.configurable": "reference.settingsdialog.IDE.editor.colors.VCS"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Minimum_in_A_Rotated_Sorted_Array_ii">
+  <component name="RunManager" selected="Application.bruteforce">
     <configuration name="Minimum_in_A_Rotated_Sorted_Array_ii" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Arrays_and_ArrayList.Minimum_in_A_Rotated_Sorted_Array_ii" />
-      <module name="Java Restart" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Arrays_and_ArrayList.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="MoveZeroes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Arrays_and_ArrayList.MoveZeroes" />
       <module name="Java Restart" />
       <extension name="coverage">
         <pattern>
@@ -148,13 +139,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="bruteforce" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Arrays_and_ArrayList.Left_Rotate_by_D_places.bruteforce" />
+      <module name="Java Restart" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Arrays_and_ArrayList.Left_Rotate_by_D_places.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.bruteforce" />
         <item itemvalue="Application.Minimum_in_A_Rotated_Sorted_Array_ii" />
         <item itemvalue="Application.Rotaion_Count" />
         <item itemvalue="Application.Peak_Index_In_A_Mountain_Array" />
         <item itemvalue="Application.Search_In_An_Infinite_sorted_array" />
-        <item itemvalue="Application.MoveZeroes" />
       </list>
     </recent_temporary>
   </component>
@@ -487,7 +491,15 @@
       <option name="project" value="LOCAL" />
       <updated>1717960375112</updated>
     </task>
-    <option name="localTasksCounter" value="41" />
+    <task id="LOCAL-00041" summary="Files added">
+      <option name="closed" value="true" />
+      <created>1718270966572</created>
+      <option name="number" value="00041" />
+      <option name="presentableId" value="LOCAL-00041" />
+      <option name="project" value="LOCAL" />
+      <updated>1718270966572</updated>
+    </task>
+    <option name="localTasksCounter" value="42" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
