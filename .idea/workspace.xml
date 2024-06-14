@@ -88,7 +88,7 @@
     "settings.editor.selected.configurable": "reference.settingsdialog.IDE.editor.colors.VCS"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Missing_number_optimal">
+  <component name="RunManager" selected="Application.Max_Consicutive_ones">
     <configuration name="MIssing_number" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Arrays_and_ArrayList.MIssing_number" />
       <module name="Java Restart" />
@@ -102,8 +102,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Minimum_in_A_Rotated_Sorted_Array_ii" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Arrays_and_ArrayList.Minimum_in_A_Rotated_Sorted_Array_ii" />
+    <configuration name="Max_Consicutive_ones" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Arrays_and_ArrayList.Max_Consicutive_ones" />
       <module name="Java Restart" />
       <extension name="coverage">
         <pattern>
@@ -156,11 +156,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Max_Consicutive_ones" />
         <item itemvalue="Application.Missing_number_optimal" />
         <item itemvalue="Application.MIssing_number" />
         <item itemvalue="Application.Optimal" />
         <item itemvalue="Application.bruteforce" />
-        <item itemvalue="Application.Minimum_in_A_Rotated_Sorted_Array_ii" />
       </list>
     </recent_temporary>
   </component>
