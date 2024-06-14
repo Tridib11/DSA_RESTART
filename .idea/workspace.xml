@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="26639517-5cea-4cd2-9ae0-ee836e05327c" name="Changes" comment="Files added">
-      <change beforePath="$PROJECT_DIR$/src/Arrays_and_ArrayList/MIssing_number.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Arrays_and_ArrayList/MIssing_number.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Arrays_and_ArrayList/Missing_number_optimal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,6 +66,7 @@
     "Application.MIssing_number.executor": "Run",
     "Application.Main.executor": "Run",
     "Application.Minimum_in_A_Rotated_Sorted_Array_ii.executor": "Run",
+    "Application.Missing_number_optimal.executor": "Run",
     "Application.MoveZeroes.executor": "Run",
     "Application.Optimal.executor": "Run",
     "Application.Order_Agnostic_Binary_Search.executor": "Run",
@@ -87,7 +89,7 @@
     "settings.editor.selected.configurable": "reference.settingsdialog.IDE.editor.colors.VCS"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.MIssing_number">
+  <component name="RunManager" selected="Application.Missing_number_optimal">
     <configuration name="MIssing_number" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Arrays_and_ArrayList.MIssing_number" />
       <module name="Java Restart" />
@@ -114,12 +116,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Optimal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Arrays_and_ArrayList.Left_Rotate_by_D_places.Optimal" />
+    <configuration name="Missing_number_optimal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Arrays_and_ArrayList.Missing_number_optimal" />
       <module name="Java Restart" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Arrays_and_ArrayList.Left_Rotate_by_D_places.*" />
+          <option name="PATTERN" value="Arrays_and_ArrayList.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -127,12 +129,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Rotaion_Count" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Arrays_and_ArrayList.Rotaion_Count" />
+    <configuration name="Optimal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Arrays_and_ArrayList.Left_Rotate_by_D_places.Optimal" />
       <module name="Java Restart" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Arrays_and_ArrayList.*" />
+          <option name="PATTERN" value="Arrays_and_ArrayList.Left_Rotate_by_D_places.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -155,11 +157,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Missing_number_optimal" />
         <item itemvalue="Application.MIssing_number" />
         <item itemvalue="Application.Optimal" />
         <item itemvalue="Application.bruteforce" />
         <item itemvalue="Application.Minimum_in_A_Rotated_Sorted_Array_ii" />
-        <item itemvalue="Application.Rotaion_Count" />
       </list>
     </recent_temporary>
   </component>
@@ -548,7 +550,15 @@
       <option name="project" value="LOCAL" />
       <updated>1718275434048</updated>
     </task>
-    <option name="localTasksCounter" value="48" />
+    <task id="LOCAL-00048" summary="Files added">
+      <option name="closed" value="true" />
+      <created>1718361776707</created>
+      <option name="number" value="00048" />
+      <option name="presentableId" value="LOCAL-00048" />
+      <option name="project" value="LOCAL" />
+      <updated>1718361776707</updated>
+    </task>
+    <option name="localTasksCounter" value="49" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
