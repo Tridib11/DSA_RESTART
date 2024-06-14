@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="26639517-5cea-4cd2-9ae0-ee836e05327c" name="Changes" comment="Files added">
-      <change afterPath="$PROJECT_DIR$/src/Arrays_and_ArrayList/MIssing_number.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Arrays_and_ArrayList/MIssing_number.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Arrays_and_ArrayList/MIssing_number.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,6 +62,7 @@
     "Application.Find_the_number_with_Even_number_of_digits.executor": "Run",
     "Application.First_and_last_Position_of_element_in_sorted_Array.executor": "Run",
     "Application.Floor_of_A_Number.executor": "Run",
+    "Application.MIssing_number.executor": "Run",
     "Application.Main.executor": "Run",
     "Application.Minimum_in_A_Rotated_Sorted_Array_ii.executor": "Run",
     "Application.MoveZeroes.executor": "Run",
@@ -539,7 +540,15 @@
       <option name="project" value="LOCAL" />
       <updated>1718275202728</updated>
     </task>
-    <option name="localTasksCounter" value="47" />
+    <task id="LOCAL-00047" summary="Files added">
+      <option name="closed" value="true" />
+      <created>1718275434048</created>
+      <option name="number" value="00047" />
+      <option name="presentableId" value="LOCAL-00047" />
+      <option name="project" value="LOCAL" />
+      <updated>1718275434048</updated>
+    </task>
+    <option name="localTasksCounter" value="48" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
