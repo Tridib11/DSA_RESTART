@@ -1,5 +1,5 @@
 package Arrays_and_ArrayList;
-
+//https://leetcode.com/problems/max-consecutive-ones/description/
 public class Max_Consicutive_ones {
     public static void main(String[] args) {
             int[] arr={1,1,0,1,1,1};
