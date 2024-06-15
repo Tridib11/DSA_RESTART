@@ -11,8 +11,8 @@ public class Optimal {
     }
 
     public static int[] intersection(int[] nums1, int[] nums2) {
-        int i=0,j=0,k=0;
-        int[] ans=new int[nums2.length];
+        int i=0,j=0;
+        ArrayList<Integer> ans=new ArrayList<>();
         while(i<nums1.length && j< nums2.length){
             if(nums1[i]<nums2[j]){
                 i++;
@@ -21,12 +21,16 @@ public class Optimal {
                 j++;
             }
             else{
-                ans[k]=nums2[j];
-                k++;
+                ans.add(nums2[j]);
                 i++;
                 j++;
             }
         }
-        return ans;
+        int[] result=new int[ans.size()];
+        for(int k=0;k<ans.size();k++){
+            result[k]=ans.get(k);
+        }
+        return result;
+
     }
 }

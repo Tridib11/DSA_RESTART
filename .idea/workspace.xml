@@ -5,6 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="26639517-5cea-4cd2-9ae0-ee836e05327c" name="Changes" comment="Files added">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Arrays_and_ArrayList/Intersection_of_two_Arrays/Optimal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Arrays_and_ArrayList/Intersection_of_two_Arrays/Optimal.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -174,14 +175,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1715737084345</updated>
-    </task>
-    <task id="LOCAL-00012" summary="Files added">
-      <option name="closed" value="true" />
-      <created>1715855278524</created>
-      <option name="number" value="00012" />
-      <option name="presentableId" value="LOCAL-00012" />
-      <option name="project" value="LOCAL" />
-      <updated>1715855278524</updated>
     </task>
     <task id="LOCAL-00013" summary="Files added">
       <option name="closed" value="true" />
@@ -567,7 +560,15 @@
       <option name="project" value="LOCAL" />
       <updated>1718470023810</updated>
     </task>
-    <option name="localTasksCounter" value="61" />
+    <task id="LOCAL-00061" summary="Files added">
+      <option name="closed" value="true" />
+      <created>1718470599888</created>
+      <option name="number" value="00061" />
+      <option name="presentableId" value="LOCAL-00061" />
+      <option name="project" value="LOCAL" />
+      <updated>1718470599888</updated>
+    </task>
+    <option name="localTasksCounter" value="62" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
