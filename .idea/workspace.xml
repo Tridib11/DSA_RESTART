@@ -6,7 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="26639517-5cea-4cd2-9ae0-ee836e05327c" name="Changes" comment="Files added">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Arrays_and_ArrayList/Union_of_two_Sorted_Arrays.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Arrays_and_ArrayList/Union_of_two_Sorted_Arrays.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Arrays_and_ArrayList/Intersection_of_two_Arrays/BruteForce.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Arrays_and_ArrayList/Intersection_of_two_Arrays/BruteForce.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -91,7 +91,20 @@
     "settings.editor.selected.configurable": "reference.settingsdialog.IDE.editor.colors.VCS"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Union_of_two_Sorted_Arrays">
+  <component name="RunManager" selected="Application.BruteForce">
+    <configuration name="BruteForce" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Arrays_and_ArrayList.Intersection_of_two_Arrays.BruteForce" />
+      <module name="Java Restart" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Arrays_and_ArrayList.Intersection_of_two_Arrays.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="MIssing_number" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Arrays_and_ArrayList.MIssing_number" />
       <module name="Java Restart" />
@@ -131,19 +144,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Optimal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Arrays_and_ArrayList.Left_Rotate_by_D_places.Optimal" />
-      <module name="Java Restart" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Arrays_and_ArrayList.Left_Rotate_by_D_places.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="Union_of_two_Sorted_Arrays" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Arrays_and_ArrayList.Union_of_two_Sorted_Arrays" />
       <module name="Java Restart" />
@@ -159,11 +159,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.BruteForce" />
         <item itemvalue="Application.Union_of_two_Sorted_Arrays" />
         <item itemvalue="Application.Max_Consicutive_ones" />
         <item itemvalue="Application.Missing_number_optimal" />
         <item itemvalue="Application.MIssing_number" />
-        <item itemvalue="Application.Optimal" />
       </list>
     </recent_temporary>
   </component>
@@ -175,22 +175,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1715737084345</updated>
-    </task>
-    <task id="LOCAL-00008" summary="Files added">
-      <option name="closed" value="true" />
-      <created>1715853938330</created>
-      <option name="number" value="00008" />
-      <option name="presentableId" value="LOCAL-00008" />
-      <option name="project" value="LOCAL" />
-      <updated>1715853938330</updated>
-    </task>
-    <task id="LOCAL-00009" summary="Files added">
-      <option name="closed" value="true" />
-      <created>1715853969120</created>
-      <option name="number" value="00009" />
-      <option name="presentableId" value="LOCAL-00009" />
-      <option name="project" value="LOCAL" />
-      <updated>1715853969120</updated>
     </task>
     <task id="LOCAL-00010" summary="Files added">
       <option name="closed" value="true" />
@@ -568,7 +552,23 @@
       <option name="project" value="LOCAL" />
       <updated>1718458412454</updated>
     </task>
-    <option name="localTasksCounter" value="57" />
+    <task id="LOCAL-00057" summary="Files added">
+      <option name="closed" value="true" />
+      <created>1718468356529</created>
+      <option name="number" value="00057" />
+      <option name="presentableId" value="LOCAL-00057" />
+      <option name="project" value="LOCAL" />
+      <updated>1718468356529</updated>
+    </task>
+    <task id="LOCAL-00058" summary="Files added">
+      <option name="closed" value="true" />
+      <created>1718468408677</created>
+      <option name="number" value="00058" />
+      <option name="presentableId" value="LOCAL-00058" />
+      <option name="project" value="LOCAL" />
+      <updated>1718468408677</updated>
+    </task>
+    <option name="localTasksCounter" value="59" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
