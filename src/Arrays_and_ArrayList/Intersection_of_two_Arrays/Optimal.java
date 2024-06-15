@@ -1,12 +1,12 @@
 package Arrays_and_ArrayList.Intersection_of_two_Arrays;
-
+//https://leetcode.com/problems/intersection-of-two-arrays-ii/description/
 import java.util.ArrayList;
 import java.util.Arrays;
 
 public class Optimal {
     public static void main(String[] args) {
-        int[] arr1={1,2,2,1};
-        int[] arr2={2,2};
+        int[] arr1={4,9,5};
+        int[] arr2={9,4,9,8,4};
         System.out.println(Arrays.toString(intersection(arr1,arr2)));
     }
 
