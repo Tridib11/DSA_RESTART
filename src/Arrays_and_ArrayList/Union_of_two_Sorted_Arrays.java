@@ -17,6 +17,11 @@ public class Union_of_two_Sorted_Arrays {
                     union.add(arr1[i]);
                     i++;
                 }
+            } else {
+                if (union.size() == 0 || union.get(union.size() - 1) != arr2[j]) {
+                    union.add(arr2[j]);
+                    j++;
+                }
             }
         }
 
