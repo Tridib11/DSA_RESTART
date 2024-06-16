@@ -11,5 +11,12 @@ public class hash_set {
         set.add(3);
         set.add(1);
 //        System.out.println(set);
+
+        if(set.contains(1)){
+            System.out.println("contains");
+        }
+        if(!set.contains(6)){
+            System.out.println("doesnot contains");
+        }
     }
 }
