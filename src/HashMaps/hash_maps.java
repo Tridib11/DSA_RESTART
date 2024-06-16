@@ -22,5 +22,8 @@ public class hash_maps {
         if(map.containsValue(30)){
             System.out.println("value contains in the map");
         }
+
+        System.out.println(map.get("US"));
+        System.out.println(map.get("Nepal"));
     }
 }

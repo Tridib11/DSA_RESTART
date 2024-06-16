@@ -83,6 +83,7 @@
     "Application.Variation_2.executor": "Run",
     "Application.Variation_3.executor": "Run",
     "Application.bruteforce.executor": "Run",
+    "Application.hash_maps.executor": "Run",
     "Application.hash_set.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
@@ -91,6 +92,12 @@
     "settings.editor.selected.configurable": "reference.settingsdialog.IDE.editor.colors.VCS"
   }
 }]]></component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="npm run dev" />
+      <command value="javac" />
+    </option>
+  </component>
   <component name="RunManager" selected="Application.hash_maps">
     <configuration name="BruteForce" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Arrays_and_ArrayList.Intersection_of_two_Arrays.BruteForce" />
@@ -175,22 +182,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1715737084345</updated>
-    </task>
-    <task id="LOCAL-00024" summary="Files added">
-      <option name="closed" value="true" />
-      <created>1717377726619</created>
-      <option name="number" value="00024" />
-      <option name="presentableId" value="LOCAL-00024" />
-      <option name="project" value="LOCAL" />
-      <updated>1717377726629</updated>
-    </task>
-    <task id="LOCAL-00025" summary="Files added">
-      <option name="closed" value="true" />
-      <created>1717377757232</created>
-      <option name="number" value="00025" />
-      <option name="presentableId" value="LOCAL-00025" />
-      <option name="project" value="LOCAL" />
-      <updated>1717377757232</updated>
     </task>
     <task id="LOCAL-00026" summary="Files added">
       <option name="closed" value="true" />
@@ -568,7 +559,23 @@
       <option name="project" value="LOCAL" />
       <updated>1718553558991</updated>
     </task>
-    <option name="localTasksCounter" value="73" />
+    <task id="LOCAL-00073" summary="Files added">
+      <option name="closed" value="true" />
+      <created>1718553724456</created>
+      <option name="number" value="00073" />
+      <option name="presentableId" value="LOCAL-00073" />
+      <option name="project" value="LOCAL" />
+      <updated>1718553724456</updated>
+    </task>
+    <task id="LOCAL-00074" summary="Files added">
+      <option name="closed" value="true" />
+      <created>1718553828993</created>
+      <option name="number" value="00074" />
+      <option name="presentableId" value="LOCAL-00074" />
+      <option name="project" value="LOCAL" />
+      <updated>1718553828993</updated>
+    </task>
+    <option name="localTasksCounter" value="75" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
