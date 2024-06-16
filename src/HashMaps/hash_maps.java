@@ -35,5 +35,8 @@ public class hash_maps {
         for(Map.Entry<String,Integer> e: map.entrySet()){
             System.out.println(e.getKey()+" "+e.getValue());
         }
+
+        map.remove("China");
+        System.out.println(map);
     }
 }
