@@ -1,6 +1,7 @@
 package HashMaps;
 
 import java.util.HashMap;
+import java.util.Map;
 
 public class hash_maps {
     public static void main(String[] args) {
@@ -25,5 +26,14 @@ public class hash_maps {
 
         System.out.println(map.get("US"));
         System.out.println(map.get("Nepal"));
+
+
+
+        //Looping in Hashmap
+
+
+        for(Map.Entry<String,Integer> e: map.entrySet()){
+            System.out.println(e.getKey()+" "+e.getValue());
+        }
     }
 }
