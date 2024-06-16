@@ -18,5 +18,11 @@ public class hash_set {
         if(!set.contains(6)){
             System.out.println("doesnot contains");
         }
+
+
+        set.remove(1);
+        if(!set.contains(1)){
+            System.out.println("Doesnot contains 1");
+        }
     }
 }
