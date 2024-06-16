@@ -1,7 +1,15 @@
 package Hashset;
 
+import java.util.HashSet;
+
 public class hash_set {
     public static void main(String[] args) {
-
+        HashSet <Integer> set=new HashSet<>();
+        //doesnot store duplicate values
+        set.add(1);
+        set.add(2);
+        set.add(3);
+        set.add(1);
+//        System.out.println(set);
     }
 }
