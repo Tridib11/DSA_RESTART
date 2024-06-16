@@ -12,6 +12,7 @@ public class hash_set {
         set.add(1);
 //        System.out.println(set);
 
+        System.out.println("size of the set is" + set.size());
         if(set.contains(1)){
             System.out.println("contains");
         }
