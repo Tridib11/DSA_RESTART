@@ -1,4 +1,7 @@
 package HashMaps.Longest_Subarray_with_Sum_K;
+
+//https://www.geeksforgeeks.org/problems/longest-sub-array-with-sum-k0809/1
+
 import java.util.*;
 public class bruteForce {
     public static void main(String[] args) {
@@ -18,7 +21,7 @@ public class bruteForce {
 k=15
 
 
-Time Complexity : O(n^2)
+Time Complexity : O(n^2)   TLE
  */
     }
 
@@ -37,7 +40,7 @@ Time Complexity : O(n^2)
                 }
             }
         }
-        return map.getOrDefault(K,null);
+        return map.getOrDefault(K,0);
 
     }
 }
