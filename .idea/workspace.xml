@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="26639517-5cea-4cd2-9ae0-ee836e05327c" name="Changes" comment="Files added">
-      <change beforePath="$PROJECT_DIR$/src/Arrays_and_ArrayList/ReArrange_Array_Of_Elements_By_Sign/BruteForce.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Arrays_and_ArrayList/ReArrange_Array_Of_Elements_By_Sign/BruteForce.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Arrays_and_ArrayList/ReArrange_Array_Of_Elements_By_Sign/Optimal.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -183,14 +183,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1715737084345</updated>
-    </task>
-    <task id="LOCAL-00061" summary="Files added">
-      <option name="closed" value="true" />
-      <created>1718470599888</created>
-      <option name="number" value="00061" />
-      <option name="presentableId" value="LOCAL-00061" />
-      <option name="project" value="LOCAL" />
-      <updated>1718470599888</updated>
     </task>
     <task id="LOCAL-00062" summary="Files added">
       <option name="closed" value="true" />
@@ -576,7 +568,15 @@
       <option name="project" value="LOCAL" />
       <updated>1718965045178</updated>
     </task>
-    <option name="localTasksCounter" value="110" />
+    <task id="LOCAL-00110" summary="Files added">
+      <option name="closed" value="true" />
+      <created>1718965821411</created>
+      <option name="number" value="00110" />
+      <option name="presentableId" value="LOCAL-00110" />
+      <option name="project" value="LOCAL" />
+      <updated>1718965821411</updated>
+    </task>
+    <option name="localTasksCounter" value="111" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
