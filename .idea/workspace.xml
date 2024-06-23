@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="26639517-5cea-4cd2-9ae0-ee836e05327c" name="Changes" comment="Files added" />
+    <list default="true" id="26639517-5cea-4cd2-9ae0-ee836e05327c" name="Changes" comment="Files added">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Arrays_and_ArrayList/Leaders_in_an_Array.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Arrays_and_ArrayList/Leaders_in_an_Array.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -97,7 +100,7 @@
       <command value="javac" />
     </option>
   </component>
-  <component name="RunManager" selected="Application.Arrays_and_ArrayList.ReArrange_Array_Of_Elements_By_Sign.BruteForce">
+  <component name="RunManager" selected="Application.Better">
     <configuration name="Arrays_and_ArrayList.ReArrange_Array_Of_Elements_By_Sign.BruteForce" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Arrays_and_ArrayList.ReArrange_Array_Of_Elements_By_Sign.BruteForce" />
       <module name="Java Restart" />
@@ -111,12 +114,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BruteForce" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Arrays_and_ArrayList.Intersection_of_two_Arrays.BruteForce" />
+    <configuration name="Better" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Arrays_and_ArrayList.Longest_Subsequesnce.Better" />
       <module name="Java Restart" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Arrays_and_ArrayList.Intersection_of_two_Arrays.*" />
+          <option name="PATTERN" value="Arrays_and_ArrayList.Longest_Subsequesnce.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -165,11 +168,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Better" />
         <item itemvalue="Application.Arrays_and_ArrayList.ReArrange_Array_Of_Elements_By_Sign.BruteForce" />
         <item itemvalue="Application.hash_maps" />
         <item itemvalue="Application.hash_set" />
         <item itemvalue="Application.Optimal" />
-        <item itemvalue="Application.BruteForce" />
       </list>
     </recent_temporary>
   </component>
@@ -181,14 +184,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1715737084345</updated>
-    </task>
-    <task id="LOCAL-00071" summary="Files added">
-      <option name="closed" value="true" />
-      <created>1718553023173</created>
-      <option name="number" value="00071" />
-      <option name="presentableId" value="LOCAL-00071" />
-      <option name="project" value="LOCAL" />
-      <updated>1718553023173</updated>
     </task>
     <task id="LOCAL-00072" summary="Files added">
       <option name="closed" value="true" />
@@ -574,7 +569,15 @@
       <option name="project" value="LOCAL" />
       <updated>1719035925986</updated>
     </task>
-    <option name="localTasksCounter" value="120" />
+    <task id="LOCAL-00120" summary="Files added">
+      <option name="closed" value="true" />
+      <created>1719084338319</created>
+      <option name="number" value="00120" />
+      <option name="presentableId" value="LOCAL-00120" />
+      <option name="project" value="LOCAL" />
+      <updated>1719084338319</updated>
+    </task>
+    <option name="localTasksCounter" value="121" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
