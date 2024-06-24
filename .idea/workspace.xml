@@ -6,7 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="26639517-5cea-4cd2-9ae0-ee836e05327c" name="Changes" comment="Files added">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Arrays_and_ArrayList/Leaders_in_an_Array.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Arrays_and_ArrayList/Leaders_in_an_Array.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,7 +54,7 @@
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
     &quot;Application.Arrays_and_ArrayList.ReArrange_Array_Of_Elements_By_Sign.BruteForce.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Better.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Better.executor&quot;: &quot;Debug&quot;,
     &quot;Application.BinarySearch.executor&quot;: &quot;Run&quot;,
     &quot;Application.BruteForce.executor&quot;: &quot;Run&quot;,
     &quot;Application.Ceiling_of_A_number.executor&quot;: &quot;Run&quot;,
@@ -184,14 +183,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1715737084345</updated>
-    </task>
-    <task id="LOCAL-00072" summary="Files added">
-      <option name="closed" value="true" />
-      <created>1718553558991</created>
-      <option name="number" value="00072" />
-      <option name="presentableId" value="LOCAL-00072" />
-      <option name="project" value="LOCAL" />
-      <updated>1718553558991</updated>
     </task>
     <task id="LOCAL-00073" summary="Files added">
       <option name="closed" value="true" />
@@ -577,11 +568,34 @@
       <option name="project" value="LOCAL" />
       <updated>1719084338319</updated>
     </task>
-    <option name="localTasksCounter" value="121" />
+    <task id="LOCAL-00121" summary="Files added">
+      <option name="closed" value="true" />
+      <created>1719170791139</created>
+      <option name="number" value="00121" />
+      <option name="presentableId" value="LOCAL-00121" />
+      <option name="project" value="LOCAL" />
+      <updated>1719170791139</updated>
+    </task>
+    <option name="localTasksCounter" value="122" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Files added" />
     <option name="LAST_COMMIT_MESSAGE" value="Files added" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/Arrays_and_ArrayList/Longest_Subsequesnce/Better.java</url>
+          <line>8</line>
+          <properties class="Arrays_and_ArrayList.Longest_Subsequesnce.Better" method="longestSuccessiveElements">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
