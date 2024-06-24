@@ -3,7 +3,8 @@ import java.util.*;
 public class Optimal {
 
     public static void main(String[] args) {
-
+        int[] a={100,102,100,101,101,4,3,2,3,2,1,1,1,2};
+        System.out.println(longestSuccessiveElements(a));
 
     }
 
