@@ -5,6 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="26639517-5cea-4cd2-9ae0-ee836e05327c" name="Changes" comment="Files added">
+      <change afterPath="$PROJECT_DIR$/src/Arrays_and_ArrayList/SubArraySum_pointers_slinding_window.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -53,6 +54,7 @@
   </component>
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
+    &quot;Application.Arrays_and_ArrayList.Longest_Subsequesnce.Optimal.executor&quot;: &quot;Run&quot;,
     &quot;Application.Arrays_and_ArrayList.ReArrange_Array_Of_Elements_By_Sign.BruteForce.executor&quot;: &quot;Run&quot;,
     &quot;Application.Better.executor&quot;: &quot;Debug&quot;,
     &quot;Application.BinarySearch.executor&quot;: &quot;Run&quot;,
@@ -99,7 +101,7 @@
       <command value="javac" />
     </option>
   </component>
-  <component name="RunManager" selected="Application.Arrays_and_ArrayList.Longest_Subsequesnce.Optimal">
+  <component name="RunManager" selected="Application.SubArraySum_pointers_slinding_window">
     <configuration name="Arrays_and_ArrayList.Longest_Subsequesnce.Optimal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Arrays_and_ArrayList.Longest_Subsequesnce.Optimal" />
       <module name="Java Restart" />
@@ -139,6 +141,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="SubArraySum_pointers_slinding_window" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Arrays_and_ArrayList.SubArraySum_pointers_slinding_window" />
+      <module name="Java Restart" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Arrays_and_ArrayList.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="hash_maps" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="HashMaps.hash_maps" />
       <module name="Java Restart" />
@@ -152,26 +167,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="hash_set" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Hashset.hash_set" />
-      <module name="Java Restart" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Hashset.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.SubArraySum_pointers_slinding_window" />
         <item itemvalue="Application.Arrays_and_ArrayList.Longest_Subsequesnce.Optimal" />
         <item itemvalue="Application.Better" />
         <item itemvalue="Application.Arrays_and_ArrayList.ReArrange_Array_Of_Elements_By_Sign.BruteForce" />
         <item itemvalue="Application.hash_maps" />
-        <item itemvalue="Application.hash_set" />
       </list>
     </recent_temporary>
   </component>
@@ -183,22 +185,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1715737084345</updated>
-    </task>
-    <task id="LOCAL-00073" summary="Files added">
-      <option name="closed" value="true" />
-      <created>1718553724456</created>
-      <option name="number" value="00073" />
-      <option name="presentableId" value="LOCAL-00073" />
-      <option name="project" value="LOCAL" />
-      <updated>1718553724456</updated>
-    </task>
-    <task id="LOCAL-00074" summary="Files added">
-      <option name="closed" value="true" />
-      <created>1718553828993</created>
-      <option name="number" value="00074" />
-      <option name="presentableId" value="LOCAL-00074" />
-      <option name="project" value="LOCAL" />
-      <updated>1718553828993</updated>
     </task>
     <task id="LOCAL-00075" summary="Files added">
       <option name="closed" value="true" />
@@ -576,26 +562,27 @@
       <option name="project" value="LOCAL" />
       <updated>1719170791139</updated>
     </task>
-    <option name="localTasksCounter" value="122" />
+    <task id="LOCAL-00122" summary="Files added">
+      <option name="closed" value="true" />
+      <created>1719208600474</created>
+      <option name="number" value="00122" />
+      <option name="presentableId" value="LOCAL-00122" />
+      <option name="project" value="LOCAL" />
+      <updated>1719208600474</updated>
+    </task>
+    <task id="LOCAL-00123" summary="Files added">
+      <option name="closed" value="true" />
+      <created>1719208630419</created>
+      <option name="number" value="00123" />
+      <option name="presentableId" value="LOCAL-00123" />
+      <option name="project" value="LOCAL" />
+      <updated>1719208630419</updated>
+    </task>
+    <option name="localTasksCounter" value="124" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Files added" />
     <option name="LAST_COMMIT_MESSAGE" value="Files added" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-method">
-          <url>file://$PROJECT_DIR$/src/Arrays_and_ArrayList/Longest_Subsequesnce/Better.java</url>
-          <line>8</line>
-          <properties class="Arrays_and_ArrayList.Longest_Subsequesnce.Better" method="longestSuccessiveElements">
-            <option name="EMULATED" value="true" />
-            <option name="WATCH_EXIT" value="false" />
-          </properties>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
 </project>
