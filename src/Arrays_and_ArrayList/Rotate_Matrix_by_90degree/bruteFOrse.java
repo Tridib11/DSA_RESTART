@@ -18,7 +18,7 @@ public class bruteFOrse {
     }
 
 
-    private static int[][] rotateMatrix(int[][] matrix){
+    private void rotateMatrix(int[][] matrix){
         int n=matrix.length;
         int[][] rotated=new int[n][n];
         for(int i=0;i<n;i++){
@@ -26,6 +26,10 @@ public class bruteFOrse {
                 rotated[j][n-i-1]=matrix[i][j];
             }
         }
-        return rotated;
+        for(int i=0;i<n;i++){
+            for(int j=0;j<n;j++){
+                matrix[i][j]=rotated[i][j];
+            }
+        }
     }
 }
