@@ -1,5 +1,8 @@
 package Arrays_and_ArrayList.Rotate_Matrix_by_90degree;
 //https://leetcode.com/problems/rotate-image/description/
+
+//T = O(n^2)
+//S = O(n^2)
 public class bruteFOrse {
     public static void main(String args[]) {
         int arr[][] =  {{1, 2, 3}, {4, 5, 6}, {7, 8, 9}};
