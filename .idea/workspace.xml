@@ -5,7 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="26639517-5cea-4cd2-9ae0-ee836e05327c" name="Changes" comment="Files added">
-      <change afterPath="$PROJECT_DIR$/src/Arrays_and_ArrayList/SubArraySum_pointers_slinding_window.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -80,6 +79,7 @@
     &quot;Application.Search_In_An_Infinite_sorted_array.executor&quot;: &quot;Run&quot;,
     &quot;Application.Search_in_2D_Array.executor&quot;: &quot;Run&quot;,
     &quot;Application.Smallest_letter_greater_thn_target.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SubArraySum_pointers_slinding_window.executor&quot;: &quot;Run&quot;,
     &quot;Application.Swap_an_Array.executor&quot;: &quot;Run&quot;,
     &quot;Application.Union_of_two_Sorted_Arrays.executor&quot;: &quot;Run&quot;,
     &quot;Application.Variation_1.executor&quot;: &quot;Run&quot;,
@@ -101,7 +101,7 @@
       <command value="javac" />
     </option>
   </component>
-  <component name="RunManager" selected="Application.SubArraySum_pointers_slinding_window">
+  <component name="RunManager" selected="Application.bruteFOrse">
     <configuration name="Arrays_and_ArrayList.Longest_Subsequesnce.Optimal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Arrays_and_ArrayList.Longest_Subsequesnce.Optimal" />
       <module name="Java Restart" />
@@ -154,12 +154,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="hash_maps" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="HashMaps.hash_maps" />
+    <configuration name="bruteFOrse" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Arrays_and_ArrayList.Rotate_Matrix_by_90degree.bruteFOrse" />
       <module name="Java Restart" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="HashMaps.*" />
+          <option name="PATTERN" value="Arrays_and_ArrayList.Rotate_Matrix_by_90degree.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -169,11 +169,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.bruteFOrse" />
         <item itemvalue="Application.SubArraySum_pointers_slinding_window" />
         <item itemvalue="Application.Arrays_and_ArrayList.Longest_Subsequesnce.Optimal" />
         <item itemvalue="Application.Better" />
         <item itemvalue="Application.Arrays_and_ArrayList.ReArrange_Array_Of_Elements_By_Sign.BruteForce" />
-        <item itemvalue="Application.hash_maps" />
       </list>
     </recent_temporary>
   </component>
@@ -185,14 +185,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1715737084345</updated>
-    </task>
-    <task id="LOCAL-00075" summary="Files added">
-      <option name="closed" value="true" />
-      <created>1718553902064</created>
-      <option name="number" value="00075" />
-      <option name="presentableId" value="LOCAL-00075" />
-      <option name="project" value="LOCAL" />
-      <updated>1718553902064</updated>
     </task>
     <task id="LOCAL-00076" summary="Files added">
       <option name="closed" value="true" />
@@ -578,7 +570,15 @@
       <option name="project" value="LOCAL" />
       <updated>1719208630419</updated>
     </task>
-    <option name="localTasksCounter" value="124" />
+    <task id="LOCAL-00124" summary="Files added">
+      <option name="closed" value="true" />
+      <created>1719257321118</created>
+      <option name="number" value="00124" />
+      <option name="presentableId" value="LOCAL-00124" />
+      <option name="project" value="LOCAL" />
+      <updated>1719257321118</updated>
+    </task>
+    <option name="localTasksCounter" value="125" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
