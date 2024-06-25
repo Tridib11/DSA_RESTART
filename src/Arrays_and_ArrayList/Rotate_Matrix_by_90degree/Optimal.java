@@ -1,5 +1,10 @@
 package Arrays_and_ArrayList.Rotate_Matrix_by_90degree;
+//https://leetcode.com/problems/rotate-image/
 
+/*
+T - O(n^2)
+S - O(n)
+ */
 public class Optimal {
     public static void main(String[] args) {
 
