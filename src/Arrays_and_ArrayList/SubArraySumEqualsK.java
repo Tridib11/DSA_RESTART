@@ -3,6 +3,8 @@ import java.util.*;
 /*
 https://www.naukri.com/code360/problems/subarray-sums-i_1467103
 https://leetcode.com/problems/subarray-sum-equals-k/submissions/1303232010/
+
+ O(N) or O(N*logN)
  */
 public class SubArraySumEqualsK {
     public static void main(String[] args) {
