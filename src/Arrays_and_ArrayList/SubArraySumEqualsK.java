@@ -9,6 +9,9 @@ public class SubArraySumEqualsK {
         Map<Integer,Integer> map=new HashMap<>();
         map.put(0,1); // adding the first value
         for(int i=0;i<=nums.length;i++){
+            prefixSum+=nums[i];
+            int remainingDigit=prefixSum-k;
+
 
         }
     }
