@@ -104,7 +104,7 @@
       <command value="javac" />
     </option>
   </component>
-  <component name="RunManager" selected="Application.TransPose_Of_A_Matrix">
+  <component name="RunManager" selected="Application.ReverseANumber">
     <configuration name="Arrays_and_ArrayList.Longest_Subsequesnce.Optimal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Arrays_and_ArrayList.Longest_Subsequesnce.Optimal" />
       <module name="Java Restart" />
@@ -118,12 +118,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Better" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Arrays_and_ArrayList.Longest_Subsequesnce.Better" />
+    <configuration name="ReverseANumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Arrays_and_ArrayList.ReverseANumber" />
       <module name="Java Restart" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Arrays_and_ArrayList.Longest_Subsequesnce.*" />
+          <option name="PATTERN" value="Arrays_and_ArrayList.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -172,11 +172,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ReverseANumber" />
         <item itemvalue="Application.TransPose_Of_A_Matrix" />
         <item itemvalue="Application.bruteFOrse" />
         <item itemvalue="Application.SubArraySum_pointers_slinding_window" />
         <item itemvalue="Application.Arrays_and_ArrayList.Longest_Subsequesnce.Optimal" />
-        <item itemvalue="Application.Better" />
       </list>
     </recent_temporary>
   </component>

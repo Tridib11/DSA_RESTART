@@ -2,7 +2,7 @@ package Arrays_and_ArrayList;
 
 public class ReverseANumber {
     public static void main(String[] args) {
-
+        reverse(-321);
     }
 
     private static void reverse(int num){
@@ -12,5 +12,6 @@ public class ReverseANumber {
             rem=rem*10+lastDigit;
             num=num/10;
         }
+        System.out.println(rem);
     }
 }
