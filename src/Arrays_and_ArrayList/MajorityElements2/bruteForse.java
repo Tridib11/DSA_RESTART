@@ -1,4 +1,5 @@
 package Arrays_and_ArrayList.MajorityElements2;
+//https://leetcode.com/problems/majority-element-ii/description/
 import java.util.*;
 public class bruteForse {
     public static void main(String args[]) {
