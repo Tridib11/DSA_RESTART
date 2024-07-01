@@ -1,5 +1,10 @@
 package Arrays_and_ArrayList.MajorityElements2;
 //https://leetcode.com/problems/majority-element-ii/description/
+
+/*
+T - O(n^2)
+sc - O(1)
+ */
 import java.util.*;
 public class bruteForse {
     public static void main(String args[]) {
