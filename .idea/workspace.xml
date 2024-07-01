@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="26639517-5cea-4cd2-9ae0-ee836e05327c" name="Changes" comment="Files added">
-      <change afterPath="$PROJECT_DIR$/src/Arrays_and_ArrayList/MajorityElements2/bruteForse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Arrays_and_ArrayList/MajorityElements2/Better.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -192,30 +192,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1715737084345</updated>
-    </task>
-    <task id="LOCAL-00107" summary="Files added">
-      <option name="closed" value="true" />
-      <created>1718912658130</created>
-      <option name="number" value="00107" />
-      <option name="presentableId" value="LOCAL-00107" />
-      <option name="project" value="LOCAL" />
-      <updated>1718912658130</updated>
-    </task>
-    <task id="LOCAL-00108" summary="Files added">
-      <option name="closed" value="true" />
-      <created>1718964989888</created>
-      <option name="number" value="00108" />
-      <option name="presentableId" value="LOCAL-00108" />
-      <option name="project" value="LOCAL" />
-      <updated>1718964989900</updated>
-    </task>
-    <task id="LOCAL-00109" summary="Files added">
-      <option name="closed" value="true" />
-      <created>1718965045178</created>
-      <option name="number" value="00109" />
-      <option name="presentableId" value="LOCAL-00109" />
-      <option name="project" value="LOCAL" />
-      <updated>1718965045178</updated>
     </task>
     <task id="LOCAL-00110" summary="Files added">
       <option name="closed" value="true" />
@@ -585,7 +561,31 @@
       <option name="project" value="LOCAL" />
       <updated>1719729185292</updated>
     </task>
-    <option name="localTasksCounter" value="156" />
+    <task id="LOCAL-00156" summary="Files added">
+      <option name="closed" value="true" />
+      <created>1719839038117</created>
+      <option name="number" value="00156" />
+      <option name="presentableId" value="LOCAL-00156" />
+      <option name="project" value="LOCAL" />
+      <updated>1719839038117</updated>
+    </task>
+    <task id="LOCAL-00157" summary="Files added">
+      <option name="closed" value="true" />
+      <created>1719839054323</created>
+      <option name="number" value="00157" />
+      <option name="presentableId" value="LOCAL-00157" />
+      <option name="project" value="LOCAL" />
+      <updated>1719839054323</updated>
+    </task>
+    <task id="LOCAL-00158" summary="Files added">
+      <option name="closed" value="true" />
+      <created>1719842665482</created>
+      <option name="number" value="00158" />
+      <option name="presentableId" value="LOCAL-00158" />
+      <option name="project" value="LOCAL" />
+      <updated>1719842665482</updated>
+    </task>
+    <option name="localTasksCounter" value="159" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
