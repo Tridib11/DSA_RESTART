@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="26639517-5cea-4cd2-9ae0-ee836e05327c" name="Changes" comment="Files added" />
+    <list default="true" id="26639517-5cea-4cd2-9ae0-ee836e05327c" name="Changes" comment="Files added">
+      <change afterPath="$PROJECT_DIR$/src/Arrays_and_ArrayList/MajorityElements2/Optimal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -49,56 +52,56 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.Arrays_and_ArrayList.Longest_Subsequesnce.Optimal.executor": "Run",
-    "Application.Arrays_and_ArrayList.ReArrange_Array_Of_Elements_By_Sign.BruteForce.executor": "Run",
-    "Application.Better.executor": "Debug",
-    "Application.BinarySearch.executor": "Run",
-    "Application.BruteForce.executor": "Run",
-    "Application.Ceiling_of_A_number.executor": "Run",
-    "Application.Count_even_number_of_digits.executor": "Run",
-    "Application.Find_in_a_String.executor": "Run",
-    "Application.Find_the_number_with_Even_number_of_digits.executor": "Run",
-    "Application.First_and_last_Position_of_element_in_sorted_Array.executor": "Run",
-    "Application.Floor_of_A_Number.executor": "Run",
-    "Application.MIssing_number.executor": "Run",
-    "Application.Main.executor": "Run",
-    "Application.Max_Consicutive_ones.executor": "Run",
-    "Application.Minimum_in_A_Rotated_Sorted_Array_ii.executor": "Run",
-    "Application.Missing_number_optimal.executor": "Run",
-    "Application.MoveZeroes.executor": "Run",
-    "Application.Optimal.executor": "Run",
-    "Application.Order_Agnostic_Binary_Search.executor": "Run",
-    "Application.Peak_Index_In_A_Mountain_Array.executor": "Debug",
-    "Application.ReverseANumber.executor": "Run",
-    "Application.Reverse_An_array.executor": "Run",
-    "Application.Richest_Customer_Wealth.executor": "Run",
-    "Application.Rotaion_Count.executor": "Run",
-    "Application.Search_In_An_Infinite_sorted_array.executor": "Run",
-    "Application.Search_in_2D_Array.executor": "Run",
-    "Application.Smallest_letter_greater_thn_target.executor": "Run",
-    "Application.SubArraySum_pointers_slinding_window.executor": "Run",
-    "Application.Swap_an_Array.executor": "Run",
-    "Application.TransPose_Of_A_Matrix.executor": "Run",
-    "Application.Union_of_two_Sorted_Arrays.executor": "Run",
-    "Application.Variation_1.executor": "Run",
-    "Application.Variation_2.executor": "Run",
-    "Application.Variation_3.executor": "Run",
-    "Application.Version1.executor": "Run",
-    "Application.Version2.executor": "Run",
-    "Application.bruteFOrse.executor": "Run",
-    "Application.bruteForse.executor": "Run",
-    "Application.bruteforce.executor": "Run",
-    "Application.hash_maps.executor": "Run",
-    "Application.hash_set.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
-    "ignore.virus.scanning.warn.message": "true",
-    "kotlin-language-version-configured": "true",
-    "settings.editor.selected.configurable": "reference.settingsdialog.IDE.editor.colors.VCS"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.Arrays_and_ArrayList.Longest_Subsequesnce.Optimal.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Arrays_and_ArrayList.ReArrange_Array_Of_Elements_By_Sign.BruteForce.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Better.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.BinarySearch.executor&quot;: &quot;Run&quot;,
+    &quot;Application.BruteForce.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Ceiling_of_A_number.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Count_even_number_of_digits.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Find_in_a_String.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Find_the_number_with_Even_number_of_digits.executor&quot;: &quot;Run&quot;,
+    &quot;Application.First_and_last_Position_of_element_in_sorted_Array.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Floor_of_A_Number.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MIssing_number.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Max_Consicutive_ones.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Minimum_in_A_Rotated_Sorted_Array_ii.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Missing_number_optimal.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MoveZeroes.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Optimal.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Order_Agnostic_Binary_Search.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Peak_Index_In_A_Mountain_Array.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.ReverseANumber.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Reverse_An_array.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Richest_Customer_Wealth.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Rotaion_Count.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Search_In_An_Infinite_sorted_array.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Search_in_2D_Array.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Smallest_letter_greater_thn_target.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SubArraySum_pointers_slinding_window.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Swap_an_Array.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TransPose_Of_A_Matrix.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Union_of_two_Sorted_Arrays.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Variation_1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Variation_2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Variation_3.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Version1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Version2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.bruteFOrse.executor&quot;: &quot;Run&quot;,
+    &quot;Application.bruteForse.executor&quot;: &quot;Run&quot;,
+    &quot;Application.bruteforce.executor&quot;: &quot;Run&quot;,
+    &quot;Application.hash_maps.executor&quot;: &quot;Run&quot;,
+    &quot;Application.hash_set.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settingsdialog.IDE.editor.colors.VCS&quot;
   }
-}]]></component>
+}</component>
   <component name="RunAnythingCache">
     <option name="myCommands">
       <command value="npm run dev" />
@@ -189,14 +192,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1715737084345</updated>
-    </task>
-    <task id="LOCAL-00112" summary="Files added">
-      <option name="closed" value="true" />
-      <created>1718966289893</created>
-      <option name="number" value="00112" />
-      <option name="presentableId" value="LOCAL-00112" />
-      <option name="project" value="LOCAL" />
-      <updated>1718966289893</updated>
     </task>
     <task id="LOCAL-00113" summary="Files added">
       <option name="closed" value="true" />
@@ -582,7 +577,15 @@
       <option name="project" value="LOCAL" />
       <updated>1719854727821</updated>
     </task>
-    <option name="localTasksCounter" value="161" />
+    <task id="LOCAL-00161" summary="Files added">
+      <option name="closed" value="true" />
+      <created>1719937590667</created>
+      <option name="number" value="00161" />
+      <option name="presentableId" value="LOCAL-00161" />
+      <option name="project" value="LOCAL" />
+      <updated>1719937590667</updated>
+    </task>
+    <option name="localTasksCounter" value="162" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
