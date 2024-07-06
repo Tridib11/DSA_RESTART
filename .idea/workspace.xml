@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="26639517-5cea-4cd2-9ae0-ee836e05327c" name="Changes" comment="Files added">
-      <change afterPath="$PROJECT_DIR$/src/Arrays_and_ArrayList/ThreeSum/Optimal.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Arrays_and_ArrayList/Four_Sum/BruteForce.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Arrays_and_ArrayList/Four_Sum/BruteForce.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -108,13 +108,13 @@
       <command value="javac" />
     </option>
   </component>
-  <component name="RunManager" selected="Application.bruteForse">
-    <configuration name="ReverseANumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Arrays_and_ArrayList.ReverseANumber" />
+  <component name="RunManager" selected="Application.BruteForce">
+    <configuration name="BruteForce" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Arrays_and_ArrayList.Four_Sum.BruteForce" />
       <module name="Java Restart" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Arrays_and_ArrayList.*" />
+          <option name="PATTERN" value="Arrays_and_ArrayList.Four_Sum.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -176,11 +176,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.BruteForce" />
         <item itemvalue="Application.bruteForse" />
         <item itemvalue="Application.Version2" />
         <item itemvalue="Application.Variation_2" />
         <item itemvalue="Application.Version1" />
-        <item itemvalue="Application.ReverseANumber" />
       </list>
     </recent_temporary>
   </component>
@@ -192,14 +192,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1715737084345</updated>
-    </task>
-    <task id="LOCAL-00119" summary="Files added">
-      <option name="closed" value="true" />
-      <created>1719035925986</created>
-      <option name="number" value="00119" />
-      <option name="presentableId" value="LOCAL-00119" />
-      <option name="project" value="LOCAL" />
-      <updated>1719035925986</updated>
     </task>
     <task id="LOCAL-00120" summary="Files added">
       <option name="closed" value="true" />
@@ -585,7 +577,15 @@
       <option name="project" value="LOCAL" />
       <updated>1720109595792</updated>
     </task>
-    <option name="localTasksCounter" value="168" />
+    <task id="LOCAL-00168" summary="Files added">
+      <option name="closed" value="true" />
+      <created>1720290224011</created>
+      <option name="number" value="00168" />
+      <option name="presentableId" value="LOCAL-00168" />
+      <option name="project" value="LOCAL" />
+      <updated>1720290224011</updated>
+    </task>
+    <option name="localTasksCounter" value="169" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
