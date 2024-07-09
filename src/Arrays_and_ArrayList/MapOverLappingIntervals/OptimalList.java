@@ -2,7 +2,7 @@ package Arrays_and_ArrayList.MapOverLappingIntervals;
 import java.util.*;
 public class OptimalList {
     public static void main(String[] args) {
-
+//https://leetcode.com/problems/merge-intervals/
     }
     public static List<List<Integer>> mergeOverlappingIntervals(int[][] arr) {
         // Sort the intervals based on the start time
