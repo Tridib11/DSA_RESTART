@@ -5,8 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="26639517-5cea-4cd2-9ae0-ee836e05327c" name="Changes" comment="Files added">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Arrays_and_ArrayList/MapOverLappingIntervals/BruteForceReturnList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Arrays_and_ArrayList/MapOverLappingIntervals/BruteForceReturnList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Arrays_and_ArrayList/MapOverLappingIntervals/BruteForceReturn2DArray.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -193,14 +192,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1715737084345</updated>
-    </task>
-    <task id="LOCAL-00129" summary="Files added">
-      <option name="closed" value="true" />
-      <created>1719345389773</created>
-      <option name="number" value="00129" />
-      <option name="presentableId" value="LOCAL-00129" />
-      <option name="project" value="LOCAL" />
-      <updated>1719345389774</updated>
     </task>
     <task id="LOCAL-00130" summary="Files added">
       <option name="closed" value="true" />
@@ -586,7 +577,15 @@
       <option name="project" value="LOCAL" />
       <updated>1720529784800</updated>
     </task>
-    <option name="localTasksCounter" value="178" />
+    <task id="LOCAL-00178" summary="Files added">
+      <option name="closed" value="true" />
+      <created>1720530644487</created>
+      <option name="number" value="00178" />
+      <option name="presentableId" value="LOCAL-00178" />
+      <option name="project" value="LOCAL" />
+      <updated>1720530644487</updated>
+    </task>
+    <option name="localTasksCounter" value="179" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
